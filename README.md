@@ -2,4 +2,4 @@
 
 On a new machine run the following command:
 
-    `https://github.com/vivithemage/dotfiles.git; cd dotfiles; bash install.sh`
+    cd ~;git clone https://github.com/vivithemage/dotfiles.git; cd dotfiles; bash install.sh 
