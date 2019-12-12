@@ -1,3 +1,4 @@
+syntax on                       " Enable syntax highlighting
 set number	                " Show line numbers
 set linebreak	                " Break lines at word (requires Wrap lines)
 set showbreak=+++ 	        " Wrap-broken line prefix
@@ -21,4 +22,6 @@ set ruler	                " Show row and column ruler information
 set undolevels=1000	        " Number of undo levels
 set backspace=indent,eol,start	" Backspace behaviour
 
-colorscheme peachpuff  
+set wildmenu                    " Show other files/folders in directory
+
+colorscheme elflord  
